@@ -1,2 +1,6 @@
-# CS-5783-MachineLearning
+# CS 5783 - MachineLearning
 The repository where the assignments of Machine Learning class are collected. 
+
+Furkan Oz
+
+foz@okstate.edu
