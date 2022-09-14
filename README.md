@@ -1,5 +1,7 @@
 # CS 5783 - MachineLearning
-The repository where the assignments of Machine Learning class are collected. Below link to codes in Colab can be found. **PLEASE BE CAREFUL** required data must be uploaded manually.
+The repository where the assignments of Machine Learning class are collected. Below link to codes in Colab can be found. 
+
+**PLEASE BE CAREFUL** required data must be uploaded manually.
 
 # Assignment 0
 
