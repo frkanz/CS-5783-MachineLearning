@@ -1,1 +1,14 @@
-asd
+This README file includes the dependencies for Assignment-1
+The required libraries are:
+
+
+*   numpy
+*   math
+*   matplotlib.pyplot
+*   csv
+
+Furkan Oz
+
+foz@okstate.edu
+
+https://github.com/frkanz/CS-5783-MachineLearning/tree/main/001-Assignment-1
