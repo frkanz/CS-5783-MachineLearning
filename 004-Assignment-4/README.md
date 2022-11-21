@@ -3,9 +3,7 @@ The required libraries are:
 
 *   numpy
 *   matplotlib.pyplot
-*   datetime
-*   packaging
-*   tensorflow
+*   sklearn
 
 The link to the code is:
 https://github.com/frkanz/CS-5783-MachineLearning/tree/main/004-Assignment-4
