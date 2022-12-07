@@ -21,16 +21,16 @@ CFD Data Collection-ANSYS Fluent is used for the numerical simulation and time d
 CFD simulation is ran in HPC and the scripts files can be found in the same folder. 
 
 2. DMD Algorithm:
-_DMD_m_01_t_0001.py_ is used to run obtained the linear reduced order model result and merged with NLPOD(ML model) result for comparative analysis.
+_DMD_m_01_t_0001.py_ (*ML_Project* folder) is used to run obtained the linear reduced order model result and merged with NLPOD(ML model) result for comparative analysis.
 
 3. Data Preparation for ML algorithm:
-_code.py_ is used to convert the data files into npz format for (input.yaml) input data for NLPOD. NewData is the saved the np files.
+_code.py_ (*ML_Project* folder) is used to convert the data files into npz format for (input.yaml) input data for NLPOD. NewData is the saved the np files.
 
 4. SVD for AE:
-_svd.py_ is used to take the singular value decomposition of the CFD data/True data/Full order model (FOM).
+_svd.py_ (*ROM* folder) is used to take the singular value decomposition of the CFD data/True data/Full order model (FOM).
 
 5. ML algorithm:
-_PODAE.py_ is used to train and test the AE and LSTM networks. The code work for train AE, test AE, train LSTM, and test LSTM depending on the _mode:_ option in input/input.yaml.
+_PODAE.py_ (*ROM* folder) is used to train and test the AE and LSTM networks. The code work for train AE, test AE, train LSTM, and test LSTM depending on the _mode:_ option in input/input.yaml.
 
 
 In order to run the code, please follow the order below:
