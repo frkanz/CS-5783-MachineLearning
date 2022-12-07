@@ -16,7 +16,7 @@ This is the project code of CS5783 - Machine Learning course. The dependencies o
 
 The overview of the codes as follows:
 
-1.Data Collection:
+1. Data Collection:
 CFD Data Collection-ANSYS Fluent is used for the numerical simulation and time dependent data is obtained for the smapling window named-"exitnozzle". Data format is ASCII. 
 CFD simulation is ran in HPC and the scripts files can be found in the same folder. 
 
